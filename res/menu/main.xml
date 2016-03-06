@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="search"/>
+     <item
+        android:id="@+id/addbook_au"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="添加书作者"/>
+        <item
+        android:id="@+id/queryall"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="查寻1作者对应的书"/>
+</menu>
